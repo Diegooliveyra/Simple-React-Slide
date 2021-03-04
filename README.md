@@ -9,7 +9,7 @@ Um simples slide desenvolvido em React, inspirado no projeto do curso de React d
 </br>
 <img src="./.github/demonstração.gif">
 </br>
-Você pode conferir o resultado final em: https://pick-pallet.vercel.app
+Você pode conferir o resultado final em: https://simple-react-slide.netlify.app/
 
 ## 🎯 Objetivo do projeto
 
