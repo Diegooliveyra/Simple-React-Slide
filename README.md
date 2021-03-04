@@ -13,7 +13,7 @@ Você pode conferir o resultado final em: https://simple-react-slide.netlify.app
 
 ## 🎯 Objetivo do projeto
 
-Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com React.
+Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com o curso de React da Origamid.
 
 ## 📝 Tecnologias
 
